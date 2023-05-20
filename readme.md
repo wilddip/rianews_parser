@@ -4,7 +4,7 @@
 ### Output format
 ```typescript
 type Item = {
-    title: string,   // Post's title
+    title: string,   // Post's title.
     date: Date,      // Post's creation date (ISO timestamp string).
     views: number,   // Link to post.
     link: string,    // Count of post's views.
